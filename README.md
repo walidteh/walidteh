@@ -6,7 +6,7 @@
 ## 🚀 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidteh&layout=compact&theme=radical)
 
-## 🌱 Currently Learning
+## 📖 Currently Learning
 - Full-stack development
 - AI & Machine Learning
 
